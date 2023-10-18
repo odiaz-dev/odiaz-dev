@@ -18,7 +18,7 @@ Speaker at [DevFest](https://devfest.gdgsantodomingo.org) | [CodeCamp](https://c
 - 👨🏾‍💻 Jira, JavaScript, C#
 - ⚙️ React, VueJs
 - 🧑🏾‍🎨 CSS, SASS, Figma
-ss
+
 ## Projects
 - Update this someday...
 
