@@ -4,7 +4,7 @@
 
 `📚 Thriving in chaos`
 
-IT Project Manager at [Poder Judicial Dominincano](https://poderjudicial.gob.do)<br>
+Manager of Innovative Projects at [Direccion General de Compras y Contrataciones](https://www.dgcp.gob.do/)<br>
 Founder/Co-Host at [Mangú Tecnológico Podcast](http://mangutecnologico.com)<br>
 Speaker at [DevFest](https://devfest.gdgsantodomingo.org) | [CodeCamp](https://codecampsdq.com)
 
